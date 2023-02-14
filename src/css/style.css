@@ -36,10 +36,8 @@ body {
 }
 
 .hero h2 {
-  position: relative;
   font-weight: 500;
   font-size: 4rem;
-  right: 25px;
 }
 .hero:after {
   content: url("../images/seta_preta.png");
